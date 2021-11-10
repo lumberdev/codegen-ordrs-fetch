@@ -1,6 +1,7 @@
 {
-  "name": "codegen-ordrs-fetch",
+  "name": "@lumberdev/codegen-ordrs-fetch",
   "description": "A `customFetch` implementation for using https://graphql-code-generator.com with https://ordrs.io",
+  "repository": "https://github.com/lumberdev/codegen-ordrs-fetch",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
